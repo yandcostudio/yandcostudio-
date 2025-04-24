@@ -73,11 +73,11 @@
     <h2>Shop</h2>
     <div class="product">
       <img src="https://via.placeholder.com/200x200?text=Broken+Voice" alt="T-shirt 1" />
-      <p>"Broken Voice" Tee - Rp189.000</p>
+      <p>"Broken Voice" Tee - Rp125.000</p>
     </div>
     <div class="product">
       <img src="https://via.placeholder.com/200x200?text=Kick+Back" alt="T-shirt 2" />
-      <p>"Kick Back" Tee - Rp189.000</p>
+      <p>"Kick Back" Tee - Rp125.000</p>
     </div>
   </section>
 
@@ -90,7 +90,7 @@
 
   <section class="section" id="contact">
     <h2>Contact</h2>
-    <p>Email: yandco@email.com</p>
+    <p>Email: yasinpdlhh@email.com</p>
     <p>Instagram: <a href="https://instagram.com/yandco.std" style="color: #0af">@yandco.std</a></p>
   </section>
 
